@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\bin\Debug\net6.0\referenceTypes.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\bin\Debug\net6.0\referenceTypes.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\bin\Debug\net6.0\referenceTypes.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\bin\Debug\net6.0\referenceTypes.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\bin\Debug\net6.0\referenceTypes.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\refint\referenceTypes.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\referenceTypes.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\referenceTypes\referenceTypes\obj\Debug\net6.0\ref\referenceTypes.dll

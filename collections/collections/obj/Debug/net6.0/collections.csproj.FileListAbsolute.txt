@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\bin\Debug\net6.0\collections.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\bin\Debug\net6.0\collections.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\collections\collections\obj\Debug\net6.0\ref\collections.dll
