@@ -60,7 +60,7 @@ class Program
 
 class LottoTipp
 {
-    private readonly Random _random = new Random(906); // Fixed Seed, erzeugt immer die selbe Sequenz an Werten.
+    private readonly Random _random = new Random(906); 
     private List<int[]> tipps = new List<int[]>();
 
     public int TippCount => tipps.Count;
