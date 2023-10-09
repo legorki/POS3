@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\bin\Debug\net6.0\Bestellsystem.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\bin\Debug\net6.0\Bestellsystem.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\bin\Debug\net6.0\Bestellsystem.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\bin\Debug\net6.0\Bestellsystem.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\bin\Debug\net6.0\Bestellsystem.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\refint\Bestellsystem.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\Bestellsystem.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Bestellsystem\Bestellsystem\obj\Debug\net6.0\ref\Bestellsystem.dll
