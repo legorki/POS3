@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\bin\Debug\net6.0\Blog.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\bin\Debug\net6.0\Blog.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\bin\Debug\net6.0\Blog.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\bin\Debug\net6.0\Blog.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\bin\Debug\net6.0\Blog.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\refint\Blog.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Blog\Blog\obj\Debug\net6.0\ref\Blog.dll
