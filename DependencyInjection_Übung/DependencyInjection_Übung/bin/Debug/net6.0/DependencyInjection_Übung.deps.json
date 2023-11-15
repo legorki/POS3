@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DependencyInjection_Übung/1.0.0": {
+        "dependencies": {
+          "Intersoft.Crosslight": "6.0.5000.975"
+        },
+        "runtime": {
+          "DependencyInjection_Übung.dll": {}
+        }
+      },
+      "Intersoft.Crosslight/6.0.5000.975": {
+        "runtime": {
+          "lib/Intersoft.Crosslight.dll": {
+            "assemblyVersion": "6.0.5000.1",
+            "fileVersion": "6.0.5000.975"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInjection_Übung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Intersoft.Crosslight/6.0.5000.975": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-icRCEz9Fl9HI7LyiUniMnIN8TeI1vRI4QPZQyGDx3sTyX5YxDGNHE2uLXG3ShsI1EOSY4x/Vxycs/QTOL3uqnQ==",
+      "path": "intersoft.crosslight/6.0.5000.975",
+      "hashPath": "intersoft.crosslight.6.0.5000.975.nupkg.sha512"
+    }
+  }
+}

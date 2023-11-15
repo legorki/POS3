@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinQ_Lambda/1.0.0": {
+        "runtime": {
+          "LinQ_Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinQ_Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

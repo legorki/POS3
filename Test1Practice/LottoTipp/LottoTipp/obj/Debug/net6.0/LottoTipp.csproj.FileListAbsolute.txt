@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\bin\Debug\net6.0\LottoTipp.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\bin\Debug\net6.0\LottoTipp.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\bin\Debug\net6.0\LottoTipp.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\bin\Debug\net6.0\LottoTipp.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\bin\Debug\net6.0\LottoTipp.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\refint\LottoTipp.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\LottoTipp.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\LottoTipp\LottoTipp\obj\Debug\net6.0\ref\LottoTipp.dll

@@ -12,7 +12,7 @@ namespace Blog
     {
         public  User User { get; }
         public  string Title { get; }
-        public string Html { get; }
+        public abstract string Html { get; }
         public decimal? AverageRating { get; private set; }
         public  int RatingCount { get; private set; }
         public IReadOnlyList<Comment> Comments => CommentsList.AsReadOnly();

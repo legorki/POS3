@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ERvkaVAjLmsSXjMc5h6fqPpF2RV6hGFgEoUrfvjPNX0+os7lt8NACmzfuz+CZICocl37x7BWRIPpyCfN4nGvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linda\\OneDrive\\Desktop\\3EHIF\\POS\\DependencyInjection_Übung\\DependencyInjection_Übung\\DependencyInjection_Übung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linda\\.nuget\\packages\\intersoft.crosslight\\6.0.5000.975\\intersoft.crosslight.6.0.5000.975.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Intersoft.Crosslight 6.0.5000.975' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Intersoft.Crosslight",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

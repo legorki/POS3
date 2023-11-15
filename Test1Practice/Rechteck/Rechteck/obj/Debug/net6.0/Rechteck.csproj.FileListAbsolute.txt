@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\bin\Debug\net6.0\Rechteck.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\bin\Debug\net6.0\Rechteck.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\bin\Debug\net6.0\Rechteck.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\bin\Debug\net6.0\Rechteck.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\bin\Debug\net6.0\Rechteck.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\refint\Rechteck.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\Rechteck.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\Test1Practice\Rechteck\Rechteck\obj\Debug\net6.0\ref\Rechteck.dll

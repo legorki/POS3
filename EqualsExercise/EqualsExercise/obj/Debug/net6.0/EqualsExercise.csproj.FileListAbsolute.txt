@@ -1,0 +1,14 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\bin\Debug\net6.0\EqualsExercise.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\bin\Debug\net6.0\EqualsExercise.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\bin\Debug\net6.0\EqualsExercise.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\bin\Debug\net6.0\EqualsExercise.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\bin\Debug\net6.0\EqualsExercise.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\refint\EqualsExercise.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\EqualsExercise.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\EqualsExercise\EqualsExercise\obj\Debug\net6.0\ref\EqualsExercise.dll

@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Intersoft.Crosslight/6.0.5000.975": {
+        "type": "package",
+        "compile": {
+          "lib/Intersoft.Crosslight.dll": {}
+        },
+        "runtime": {
+          "lib/Intersoft.Crosslight.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intersoft.Crosslight/6.0.5000.975": {
+      "sha512": "icRCEz9Fl9HI7LyiUniMnIN8TeI1vRI4QPZQyGDx3sTyX5YxDGNHE2uLXG3ShsI1EOSY4x/Vxycs/QTOL3uqnQ==",
+      "type": "package",
+      "path": "intersoft.crosslight/6.0.5000.975",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "intersoft.crosslight.6.0.5000.975.nupkg.sha512",
+        "intersoft.crosslight.nuspec",
+        "lib/Intersoft.Crosslight.dll",
+        "lib/MonoAndroid10/Intersoft.Crosslight.Android.dll",
+        "lib/MonoAndroid10/Intersoft.Crosslight.dll",
+        "lib/NetCore45/Intersoft.Crosslight.WinRT.dll",
+        "lib/NetCore45/Intersoft.Crosslight.WinRT/Controls/TabControl.xaml",
+        "lib/NetCore45/Intersoft.Crosslight.WinRT/Themes/DatePicker.xaml",
+        "lib/NetCore45/Intersoft.Crosslight.WinRT/Themes/Generic.xaml",
+        "lib/NetCore45/Intersoft.Crosslight.dll",
+        "lib/Xamarin.iOS10/Intersoft.Crosslight.dll",
+        "lib/Xamarin.iOS10/Intersoft.Crosslight.iOS.dll",
+        "lib/wp8/Intersoft.Crosslight.WinPhone.dll",
+        "lib/wp8/Intersoft.Crosslight.dll",
+        "tools/CocoaDialog.app.zip",
+        "tools/CocoaDialog.sh",
+        "tools/NugetUtil.dll",
+        "tools/dependencies.xml",
+        "tools/init.ps1",
+        "tools/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Intersoft.Crosslight >= 6.0.5000.975"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\linda\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\linda\\OneDrive\\Desktop\\3EHIF\\POS\\DependencyInjection_Übung\\DependencyInjection_Übung\\DependencyInjection_Übung.csproj",
+      "projectName": "DependencyInjection_Übung",
+      "projectPath": "C:\\Users\\linda\\OneDrive\\Desktop\\3EHIF\\POS\\DependencyInjection_Übung\\DependencyInjection_Übung\\DependencyInjection_Übung.csproj",
+      "packagesPath": "C:\\Users\\linda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\linda\\OneDrive\\Desktop\\3EHIF\\POS\\DependencyInjection_Übung\\DependencyInjection_Übung\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\linda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Intersoft.Crosslight": {
+            "target": "Package",
+            "version": "[6.0.5000.975, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Intersoft.Crosslight 6.0.5000.975' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Intersoft.Crosslight",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

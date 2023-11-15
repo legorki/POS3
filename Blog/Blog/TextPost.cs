@@ -10,9 +10,12 @@ namespace Blog
     {
         public string Content { get; }
 
+        public string Html { get { return "AAA"; } }
+
         public TextPost(User user, string title,string content) : base(user, title)    
         {
             Content = content;
+            Html = "AAA";
         }
         
     }

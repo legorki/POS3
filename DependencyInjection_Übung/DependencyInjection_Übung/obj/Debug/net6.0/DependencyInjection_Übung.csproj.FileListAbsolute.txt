@@ -1,0 +1,17 @@
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\DependencyInjection_Übung.exe
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\DependencyInjection_Übung.deps.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\DependencyInjection_Übung.runtimeconfig.json
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\DependencyInjection_Übung.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\DependencyInjection_Übung.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\bin\Debug\net6.0\Intersoft.Crosslight.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.csproj.AssemblyReference.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.AssemblyInfoInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.AssemblyInfo.cs
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.csproj.CoreCompileInputs.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.csproj.CopyComplete
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\refint\DependencyInjection_Übung.dll
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.pdb
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\DependencyInjection_Übung.genruntimeconfig.cache
+C:\Users\linda\OneDrive\Desktop\3EHIF\POS\DependencyInjection_Übung\DependencyInjection_Übung\obj\Debug\net6.0\ref\DependencyInjection_Übung.dll
