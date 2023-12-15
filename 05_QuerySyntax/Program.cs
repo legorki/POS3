@@ -140,11 +140,13 @@ namespace QuerySyntax
             // [{"TE_ID":510,"TE_Class":"5CHIF","TE_Teacher":"GC","TE_Subject":"BWM1","TE_Date":"2020-05-09T00:00:00","TE_Lesson":5},
             //  {"TE_ID":511,"TE_Class":"5CHIF","TE_Teacher":"GC","TE_Subject":"BWM2","TE_Date":"2020-06-12T00:00:00","TE_Lesson":9},
             //  {"TE_ID":512,"TE_Class":"5CHIF","TE_Teacher":"GC","TE_Subject":"BWM3","TE_Date":"2019-11-01T00:00:00","TE_Lesson":5}]
-            string kvOf3AHIF = data.Test
-                .FirstOrDefault(c => c.TE_Class == "3AHIF")?.TE_Teacher;
-            var result7 = from test in data.Test
-                          where kvOf3AHIF != null && test.TE_Class == "5CHIF" && test.TE_Teacher == kvOf3AHIF
-                          select test;
+            var kv = (from c in data.Schoolclass
+                      where c.C_ID == "3AHIF"
+                      select c.C_ClassTeacher).Take(1);
+
+            object result7 = from t in data.Test
+                             where t.TE_Class == "5CHIF" && kv.Contains(t.TE_Teacher)
+                             select t;
             Console.WriteLine(Environment.NewLine + "RESULT7");
             Console.WriteLine(JsonSerializer.Serialize(result7));
 
